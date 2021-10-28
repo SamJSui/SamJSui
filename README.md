@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @SamJSui
-- 👀 I’m interested in Computer Science.
+- 👀 I’m interested in Computer Science, Machine Learning and Data Science.
 - 🌱 I’m currently learning Python and C++.
-- 💞️ I’m looking to collaborate on any project ideas.
+- 💞️ I’m looking to collaborate on any project ideas or learn more about ML.
 - 📫 How to reach me - Email: Samuelsui2002@gmail.com
 
 <!---
