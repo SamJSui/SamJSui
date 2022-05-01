@@ -1,7 +1,7 @@
 - Hi, I’m @SamJSui
-- I’m interested in Computer Science and Data Science.
-- I’m currently learning Python and C++.
-- I’m looking to collaborate on any project ideas or learn more about ML.
+- I’m interested in Computer Science and Cybersecurity.
+- I’m currently learning Pentesting and studying for a SEc+.
+- I’m looking for any internships regarding Cybersecurity.
 - How to reach me - Email: Samuelsui2002@gmail.com
 
 <!---
