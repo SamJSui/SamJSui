@@ -1,6 +1,6 @@
 - Hi, I’m @SamJSui
 - I’m interested in Computer Science and Cybersecurity.
-- I’m currently learning Pentesting and studying for a SEc+.
+- I’m currently learning Pentesting and studying for my Sec+.
 - I’m looking for any internships regarding Cybersecurity.
 - How to reach me - Email: Samuelsui2002@gmail.com
 
